@@ -9,9 +9,3 @@ I'm passionate about clean code, scalable architecture, and continuous learning.
 **Stack:** PHP · Python · JavaScript · React · Node.js · MySQL · PostgreSQL · HTML/CSS · SASS · Git
 
 **Contact:** tomasmartinezr2006@gmail.com · [Tomas_Void](https://tomascode.urbanlens.com.co)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kronus2812&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kronus2812&layout=compact&theme=dark&hide_border=true)
