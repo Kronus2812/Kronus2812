@@ -8,7 +8,7 @@ I'm passionate about clean code, scalable architecture, and continuous learning.
 
 **Stack:** PHP · Python · JavaScript · React · Node.js · MySQL · PostgreSQL · HTML/CSS · SASS · Git
 
-**Contact:** tomasmartinezr2006@gmail.com · [tomaxcode.urbanlens.com.co](https://tomaxcode.urbanlens.com.co)
+**Contact:** tomasmartinezr2006@gmail.com · [tomaxcode.urbanlens.com.co](https://tomascode.urbanlens.com.co)
 
 ---
 
